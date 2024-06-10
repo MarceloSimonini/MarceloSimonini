@@ -2,7 +2,7 @@
 
 Meu nome é Marcelo Correia
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou desenvolvendo na linguagem javascript
 - Utilizo esse espaço para divulgar meus projetos
 
